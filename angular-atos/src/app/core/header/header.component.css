@@ -1,0 +1,15 @@
+
+:host{
+  display:flex;
+  background-color:brown ;
+  color:bisque;
+  width:100%;
+
+}
+
+header{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
